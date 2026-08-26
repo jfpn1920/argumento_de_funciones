@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Documentos\argumento_de_funciones\argumento_de_funciones\bin\Debug\net10.0\argumento_de_funciones.exe
+C:\Users\LENOVO\OneDrive\Documentos\argumento_de_funciones\argumento_de_funciones\bin\Debug\net10.0\argumento_de_funciones.deps.json
+C:\Users\LENOVO\OneDrive\Documentos\argumento_de_funciones\argumento_de_funciones\bin\Debug\net10.0\argumento_de_funciones.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Documentos\argumento_de_funciones\argumento_de_funciones\bin\Debug\net10.0\argumento_de_funciones.dll
+C:\Users\LENOVO\OneDrive\Documentos\argumento_de_funciones\argumento_de_funciones\bin\Debug\net10.0\argumento_de_funciones.pdb
+C:\Users\LENOVO\OneDrive\Documentos\argumento_de_funciones\argumento_de_funciones\obj\Debug\net10.0\argumento_de_funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Documentos\argumento_de_funciones\argumento_de_funciones\obj\Debug\net10.0\argumento_de_funciones.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\argumento_de_funciones\argumento_de_funciones\obj\Debug\net10.0\argumento_de_funciones.AssemblyInfo.vb
+C:\Users\LENOVO\OneDrive\Documentos\argumento_de_funciones\argumento_de_funciones\obj\Debug\net10.0\argumento_de_funciones.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\argumento_de_funciones\argumento_de_funciones\obj\Debug\net10.0\argumento_de_funciones.sourcelink.json
+C:\Users\LENOVO\OneDrive\Documentos\argumento_de_funciones\argumento_de_funciones\obj\Debug\net10.0\argumento_de_funciones.dll
+C:\Users\LENOVO\OneDrive\Documentos\argumento_de_funciones\argumento_de_funciones\obj\Debug\net10.0\refint\argumento_de_funciones.dll
+C:\Users\LENOVO\OneDrive\Documentos\argumento_de_funciones\argumento_de_funciones\obj\Debug\net10.0\argumento_de_funciones.pdb
+C:\Users\LENOVO\OneDrive\Documentos\argumento_de_funciones\argumento_de_funciones\obj\Debug\net10.0\argumento_de_funciones.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Documentos\argumento_de_funciones\argumento_de_funciones\obj\Debug\net10.0\ref\argumento_de_funciones.dll
